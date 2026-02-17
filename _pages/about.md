@@ -19,8 +19,9 @@ Outside the lab, I write about AGI trends and technical insights on my blog.
 
 ## Education
 
-- `2022 - Present`: PhD Student in Mathematics, HKUST
-- `2020`: Major in Financial Mathematics
+- `2022 - Present`: PhD in Mathematics, [HKUST Department of Mathematics](https://www.math.hkust.edu.hk/)
+- `2020 - 2022`: MSc in Financial Mathematics, [HKUST MAFM Program](https://mafm.hkust.edu.hk/)
+- `2016 - 2020`: BSc in Mathematics, [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/)
 
 ## Selected Publication
 
