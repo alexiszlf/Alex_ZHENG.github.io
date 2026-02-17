@@ -42,4 +42,6 @@ Outside the lab, I write about AGI trends and technical insights on my blog.
 
 - GitHub: [alexiszlf](https://github.com/alexiszlf)
 - Email: [lzhengah@connect.ust.hk](mailto:lzhengah@connect.ust.hk)
-- Blog: Link coming soon
+- Blog: Scan the QR code below
+
+![Blog QR Code]({{ '/images/blogprofile.jpg' | relative_url }})
