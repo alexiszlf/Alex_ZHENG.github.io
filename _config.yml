@@ -15,7 +15,7 @@ name                     : &name "Lifang Zheng"
 description              : &description "PhD student in Mathematics at HKUST, focusing on LLM distillation and reasoning."
 url                      : https://alexiszlf.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Alex_ZHENG.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "alexiszlf/Alex_ZHENG.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ repository               : "alexiszlf/Alex_ZHENG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile.jpg"
   name             : "ZHENG Lifang (Alex)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics at HKUST. Working on LLM distillation and reasoning."
