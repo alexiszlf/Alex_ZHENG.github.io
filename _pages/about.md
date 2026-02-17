@@ -31,8 +31,8 @@ Outside the lab, I write about AGI trends and technical insights on my blog.
 
 ## Selected Project
 
-- **Prestare (DeFi startup, now sunset)**  
-  Co-founded and built an early-stage DeFi product with a Web3 startup team.  
+- **Prestare (DeFi startup, discontinued 😢)**  
+  Founded and built an early-stage DeFi product with a Web3 startup team.  
   [DoraHacks record](https://dorahacks.io/buidl/3197)
 
 ## Links
