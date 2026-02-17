@@ -15,7 +15,7 @@ Before my doctoral studies, I obtained B.S. and M.S. degrees in Mathematics and 
 
 Outside the lab, I write about AGI trends and technical insights on my blog.
 
-<img src="{{ '/images/newProfile.JPG' | relative_url }}" alt="Blog QR Code" width="220">
+<img src="{{ '/images/blogprofile.jpg' | relative_url }}" alt="Blog QR Code" width="220">
 
 ## Education
 

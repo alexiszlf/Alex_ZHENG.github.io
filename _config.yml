@@ -23,7 +23,7 @@ repository               : "alexiszlf/Alex_ZHENG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "newProfile.JPG"
   name             : "ZHENG Lifang (Alex)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics at HKUST. Working on LLM distillation and reasoning."
