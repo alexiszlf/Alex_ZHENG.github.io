@@ -31,9 +31,9 @@ Outside the lab, I write about AGI trends and technical insights on my blog.
 
 ## Selected Project
 
-- **Prestare (DeFi startup, discontinued 😢)**  
-  Founded and built an early-stage DeFi product with a Web3 startup team.  
-  [DoraHacks record](https://dorahacks.io/buidl/3197)
+- **Prestare | Founder & CEO**  
+  **Secured Angel Investment**: Raised $100k to architect a distributed financial protocol from scratch.  
+  **Rewards**: [DoraHacks record](https://dorahacks.io/buidl/3197), [Hong Kong Science Park IDEA Program](https://www.hkstp.org/zh-cn/programmes/ideation), [CityU Tech300](https://www.cityu.edu.hk/zh-hk/hktech300/)
 
 ## Links
 
