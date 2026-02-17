@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at [HKUST](https://hkust.edu.hk/), with a multidisciplinary background in Mathematics, Entrepreneurship, and AI. My research centers on large language models (LLMs), with a particular focus on reasoning, knowledge distillation, and AI for creativity.
+I am a final-year Ph.D. candidate at [HKUST](https://hkust.edu.hk/), with a multidisciplinary background in Mathematics, Entrepreneurship, and AI. My research centers on large language models (LLMs), with a particular focus on **Reasoning**, **Knowledge Distillation**, and **AI for Creativity**.
 
 I am currently working on reliable AI by improving models' metacognitive self-awareness, helping them better recognize uncertainty and calibrate their own reasoning.
 
@@ -15,11 +15,7 @@ Before my doctoral studies, I obtained B.S. and M.S. degrees in Mathematics and 
 
 Outside the lab, I write about AGI trends and technical insights on my blog.
 
-## Research Interests
-
-- Knowledge distillation for LLMs
-- Reasoning in LLMs
-- AI cognition and creativity
+<img src="{{ '/images/blogprofile.jpg' | relative_url }}" alt="Blog QR Code" width="220">
 
 ## Education
 
@@ -42,6 +38,3 @@ Outside the lab, I write about AGI trends and technical insights on my blog.
 
 - GitHub: [alexiszlf](https://github.com/alexiszlf)
 - Email: [lzhengah@connect.ust.hk](mailto:lzhengah@connect.ust.hk)
-- Blog: Scan the QR code below
-
-![Blog QR Code]({{ '/images/blogprofile.jpg' | relative_url }})
