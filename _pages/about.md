@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Lifang Zheng (Alex), a PhD student in Mathematics at HKUST. My current research focuses on knowledge distillation and reasoning in large language models (LLMs).
+I am a final-year Ph.D. candidate at [HKUST](https://hkust.edu.hk/), with a multidisciplinary background in Mathematics, Entrepreneurship, and AI. My research centers on large language models (LLMs), with a particular focus on reasoning, knowledge distillation, and AI for creativity.
 
-I am particularly interested in the relationship between AI cognition and creative practice. Outside of technical research, I enjoy reading philosophy and exploring how intelligence, agency, and creation interact in both humans and machines.
+I am currently working on reliable AI by improving models' metacognitive self-awareness, helping them better recognize uncertainty and calibrate their own reasoning.
 
-During the first two years of my PhD journey, I also worked deeply in Web3 and DeFi, where I built products as an early-stage founder.
+Before my doctoral studies, I obtained B.S. and M.S. degrees in Mathematics and Financial Mathematics. I also co-founded a tech startup and secured angel investment to build a decentralized lending platform.
+
+Outside the lab, I write about AGI trends and technical insights on my blog.
 
 ## Research Interests
 
@@ -40,3 +42,4 @@ During the first two years of my PhD journey, I also worked deeply in Web3 and D
 
 - GitHub: [alexiszlf](https://github.com/alexiszlf)
 - Email: [lzhengah@connect.ust.hk](mailto:lzhengah@connect.ust.hk)
+- Blog: Link coming soon
